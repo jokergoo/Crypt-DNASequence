@@ -1,0 +1,5 @@
+0.1
+- first version
+
+0.2
+- text are first compressed by IO::Compress::Gzip to reduce the size
